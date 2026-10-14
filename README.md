@@ -4,7 +4,6 @@ I'm an Informatics student interested in software development, artificial intell
 
 About Me :
 -  Informatics Student
--  Learning C++, Python, and JavaScript
 -  Interested in Web Development
 -  Exploring AI, Data Analytics, and FinTech
 -  Building projects and improving my programming skills
